@@ -211,8 +211,8 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `dni`, `nombre`, `apellido`, `direccion`, `celular`, `nick`, `pass`, `idCargo`) VALUES
-(1, '75085874', 'Cesar Arturo', 'Torres Negrini', 'VMT', '973126712', 'arturo123', '123', 1),
-(6, '75023213', 'señor prueba', 'probando', 'VMT', '973126712', 'señor123', '123', 3);
+(1, '75085874', 'Cesar Arturo', 'Torres Negrini', 'VMT', '123', 'arturo123', '123', 1),
+(6, '75023213', 'señor prueba', 'probando', 'VMT', '123', 'señor123', '123', 3);
 
 -- --------------------------------------------------------
 
